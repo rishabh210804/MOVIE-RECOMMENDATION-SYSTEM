@@ -36,3 +36,4 @@ Through this project, learners gain hands-on experience in:
 In conclusion, the Movie Recommendation System project serves as a practical introduction to one of the most popular real-life applications of AI and machine learning. While this is a simple implementation, it lays the foundation for more complex systems that include user preferences, ratings, viewing history, and advanced algorithms like collaborative filtering, matrix factorization, and deep learning-based recommenders.
 
 # OUTPUT
+<img width="1792" alt="Image" src="https://github.com/user-attachments/assets/5da51594-cce8-423f-97bf-5e00d45d8f65" />
